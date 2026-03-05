@@ -89,6 +89,6 @@
     },
     "registeredAt": "2026-03-05T10:36:52.309Z",
     "registeredBy": "arn:aws:sts::953325819120:assumed-role/voclabs/user3644827=__ngel_Gav__n_Cebollero",
-    "enableFaultInjection": false,
+    "enableFaultInjection": true,
     "tags": []
 }
