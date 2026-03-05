@@ -35,7 +35,7 @@ env:
   ECR_REPOSITORY: ecrcontador        # set this to your Amazon ECR repository name
   ECS_SERVICE: taskdefinitioncontador-service-guwb4m1d                 # set this to your Amazon ECS service name
   ECS_CLUSTER: clusterecscontador-2                 # set this to your Amazon ECS cluster name
-  ECS_TASK_DEFINITION: taskdefinition # set this to the path to your Amazon ECS task definition
+  ECS_TASK_DEFINITION: taskdefinitioncontador3-revision1.json # set this to the path to your Amazon ECS task definition
                                                # file, e.g. .aws/task-definition.json
   CONTAINER_NAME: contenedorcontador           # set this to the name of the container in the
                                                # containerDefinitions section of your task definition
